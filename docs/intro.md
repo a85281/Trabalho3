@@ -3,46 +3,22 @@ sidebar_position: 1
 slug: /
 ---
 
-# Tutorial Intro
+# Introdução
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Bem-vindo à Oficina dos Zés - O Seu Destino para Cuidados Automotivos de Qualidade!
 
-## Getting Started
+Na Oficina dos Zés, acreditamos que cada carro merece ser tratado com o máximo de cuidado e atenção. Somos apaixonados por veículos e comprometidos em oferecer serviços de alta qualidade que garantem o desempenho, a segurança e a confiabilidade do seu automóvel.
 
-Get started by **creating a new site**.
+Por que Escolher a Oficina dos Zés?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Experiência e Profissionalismo: Com anos de experiência no setor automotivo, nossa equipe é formada por profissionais qualificados e dedicados, prontos para resolver qualquer problema que seu carro possa ter.
 
-### What you'll need
+Serviços Abrangentes: Oferecemos uma ampla gama de serviços, desde manutenção preventiva até reparos complexos. Seja uma simples troca de óleo, reparos na transmissão ou diagnósticos avançados, estamos aqui para atender às suas necessidades.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Compromisso com a Qualidade: Utilizamos peças e equipamentos de alta qualidade para garantir que seu veículo receba o melhor tratamento possível. Nosso objetivo é superar suas expectativas e mantê-lo seguro na estrada.
 
-## Generate a new site
+Atendimento Personalizado: Valorizamos cada cliente e acreditamos em um atendimento personalizado. Nosso time está aqui para ouvir suas preocupações, explicar os serviços necessários e garantir que você se sinta confiante nas decisões relacionadas ao seu veículo.
 
-Generate a new Docusaurus site using the **classic template**.
+Explore nosso site para conhecer nossos serviços em detalhes, agendar uma consulta ou obter dicas úteis sobre a manutenção do seu carro. Na [Nome da Oficina], estamos comprometidos em ser sua escolha confiável para todas as necessidades automotivas.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Confie em nós para cuidar do seu carro como se fosse nosso!
