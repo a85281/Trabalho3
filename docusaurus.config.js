@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt'],
   },
 
   presets: [
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/a85281/docusaurus-ghpages/tree/main',
+            'https://github.com/a85281/Trabalho3/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/a85281/docusaurus-ghpages/tree/main',
+            'https://github.com/a85281/Trabalho3/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/a85281/docusaurus-ghpages',
+            href: 'https://github.com/a85281/Trabalho3',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,7 +106,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/a85281/docusaurus-ghpages',
+                href: 'https://github.com/a85281/Trabalho3',
               },
             ],
           },
